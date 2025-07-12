@@ -5,4 +5,4 @@ A simple Python tool to validate email addresses using regular expressions (rege
 - Regex-based validation
 - User-friendly feedback
 
-  my first attempt at regex
+my first attempt at regex
